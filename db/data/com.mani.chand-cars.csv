@@ -1,0 +1,4 @@
+make,model,year,color,licensePlate,owner
+1,Toyota,2015,Corolla,2015,Blue,ABC
+2,Toyota,2015,Corolla,2015,Blue,AB
+3,Ford,2020,GT,2020,black,A
